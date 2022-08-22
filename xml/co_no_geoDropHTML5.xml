@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data_xml title="Norway" subtitle="Geodrop" backgroundImage="co_no_geo_bg.png"
+	overlayTextImage="map_overlay.png">
+	<!-- change line 81 in styles css to adjust title location in header-->
+	<instructions title="Instructions">
+		<content>Begin by clicking one of the categories from the menu. From the dropdown list,
+			click and drag the name to its corresponding location on the map (hints are provided).
+			Correct choices will reveal interesting information. Click the “Close” button to return
+			to the menu. Continue in this manner until you have visited all of the
+			locations.</content>
+	</instructions>
+	<menu>
+		<category title="Major Cities">
+			<item title="Oslo" X="211" Y="307" dropBox_X="270" dropBox_Y="278" dropBoxWidth="110"
+				dropBoxHeight="16" image="co_no_geo_oslo.jpg" overlay="co_no_geo_oslo.png"
+				overlay_X="" overlay_Y="" copyright="Wikimedia / Babak Fakhamzadeh">
+				<content>Oslo is the capital of Norway and the country’s largest city. It has several historical landmarks, such as the Royal Palace.</content>
+				<hint>Hint: This city is located at the edge of a fjord.</hint>
+			</item>
+
+			<item title="Bergen" X="160" Y="285" dropBox_X="10" dropBox_Y="300" dropBoxWidth="110"
+				dropBoxHeight="16" image="co_no_geo_bergen.jpg" overlay="co_no_geo_bergen.png"
+				overlay_X="" overlay_Y="" copyright="Wikimedia / Diego Delso">
+				<content>Bergen is the second-largest city in Norway. It has a long history, tracing back to when it was a trading port in the 14th century.</content>
+				<hint>Hint: This city is located on the southwestern coast.</hint>
+			</item>
+
+
+			<item title="Trondheim" X="219" Y="216" dropBox_X="38" dropBox_Y="221"
+				dropBoxWidth="110" dropBoxHeight="16" image="co_no_geo_trondheim.jpg"
+				overlay="co_no_geo_trondheim.png" overlay_X="" overlay_Y=""
+				copyright="Flickr / Christopher">
+				<content>Trondheim is the fourth-largest city in Norway and is known as an academic hub. It has a long history tracing back to the Viking Age.</content>
+				<hint>Hint: This city is situated along a fjord near the Norwegian Sea.</hint>
+			</item>
+
+			<item title="Bodø" X="265" Y="119" dropBox_X="80" dropBox_Y="135" dropBoxWidth="110"
+				dropBoxHeight="16" image="co_no_geo_bodø.jpg" overlay="co_no_geo_bodø.png"
+				overlay_X="" overlay_Y="" copyright="Flickr / Sergei Gussev">
+				<content>Bodø was founded in 1816 and is located at the entrance to the Salt Fjord. It is a commercial fishing hub and has several historical landmarks.</content>
+				<hint>Hint: This port town is located in northern Norway on the Norwegian Sea.</hint>
+			</item>
+
+
+			<item title="Vardø" X="421" Y="38" dropBox_X="330" dropBox_Y="95"
+				dropBoxWidth="110" dropBoxHeight="16" image="co_no_geo_vardø.jpg"
+				overlay="co_no_geo_vardø.png" overlay_X="" overlay_Y=""
+				copyright="Flickr / juergend2">
+				<content>Vardø is the oldest town in the northern region and the easternmost corner of Norway. It offers views of the Norwegian–Russian Arctic and the Northeast Passage..</content>
+				<hint>Hint: This town is in the far north of Norway.</hint>
+			</item>
+		</category>
+
+
+		<category title="Bodies of Water">
+			<item title="Norwegian Sea" X="50" Y="150" dropBox_X="50" dropBox_Y="178"
+				dropBoxWidth="124" dropBoxHeight="16" image="co_no_geo_norwegian_sea.jpg"
+				overlay="co_no_geo_norwegian_sea.png" overlay_X="0" overlay_Y="0"
+				copyright="Wikimedia / Finn Rindahl">
+				<content>The Norwegian Sea is situated between the Greenland and North Seas. It has a maximum depth of 3,968 m (13,020 ft) and contains deposits of natural gas and oil.</content>
+				<hint>Hint: This body of water is northwest of Norway in the Atlantic Ocean.
+				</hint>
+			</item>
+
+
+			<item title="North Sea" X="110" Y="340" dropBox_X="30" dropBox_Y="280"
+				dropBoxWidth="110" dropBoxHeight="16" image="co_no_geo_north_sea.jpg"
+				overlay="co_no_geo_north_sea.png" overlay_X="0" overlay_Y="0"
+				copyright="Flickr / Jim Nix">
+				<content>This shallow portion of the Atlantic Ocean covers 570,000 sq km (220,000 sq mi). It is one of Europe’s most productive fisheries.</content>
+				<hint>Hint: This body of water is south of Norway.</hint>
+			</item>
+
+
+
+			<item title="Greenland Sea" X="170" Y="10" dropBox_X="140" dropBox_Y="50"
+				dropBoxWidth="110" dropBoxHeight="16" image="co_no_geo_greenland_sea.jpg"
+				overlay="co_no_geo_greenland_sea.png" overlay_X="0" overlay_Y="0"
+				copyright="Flickr / Alex Berger">
+				<content>The Greenland Sea covers an area of 1.2 million sq km (465,000 sq mi). Its average depth is 1,450 m (4,750 ft) and reaches a maximum depth of 4,800 m (16,000 ft). </content>
+				<hint>Hint: This body of water is part of the Arctic Ocean.</hint>
+			</item>
+
+			<item title="Lake Mjøsa" X="213" Y="274" dropBox_X="310" dropBox_Y="310"
+				dropBoxWidth="110" dropBoxHeight="16" image="co_no_geo_lake_mjøsa.jpg"
+				overlay="co_no_geo_lake_mjøsa.png" overlay_X="0" overlay_Y="0"
+				copyright="Flickr / Vlash">
+				<content>Lake Mjøsa is approximately 56 km (35 mi) north of Oslo. It is long and narrow, stretching northwest to southeast for 100 km (62 mi).</content>
+				<hint>Hint: This lake is located in southeastern Norway.</hint>
+			</item>
+
+			<item title="Glomma" X="230" Y="267" dropBox_X="282" dropBox_Y="238"
+				dropBoxWidth="110" dropBoxHeight="16" image="co_no_geo_glomma.jpg"
+				overlay="co_no_geo_glomma.png" overlay_X="0" overlay_Y="0"
+				copyright="Flickr / Kongsvinger Kommune">
+				<content>The Glomma is the longest river in Scandinavia, running 621 km (386 mi).  </content>
+				<hint>Hint: This river runs north–south in southern Norway.</hint>
+			</item>
+
+
+
+		</category>
+
+		<category title="Geographic Divisions">
+			<item title="Nord-Norge (Northern Norway)" X="298" Y="78" dropBox_X="110" dropBox_Y="90"
+				dropBoxWidth="110" dropBoxHeight="16" image="co_no_geo_north.jpg"
+				overlay="co_no_geo_north.png" overlay_X="0" overlay_Y="0"
+				copyright="Wikimedia / Helge Høifødt">
+				<content>Nord-Norge stretches approximately 925 km (575 mi) and is the northernmost point of Europe. It features a mild maritime climate.</content>
+				<hint>Hint: This region is the northernmost point of Norway.</hint>
+			</item>
+
+
+			<item title="Midt-Norge (Central Norway)" X="230" Y="201" dropBox_X="60" dropBox_Y="160"
+				dropBoxWidth="110" dropBoxHeight="16" image="co_no_geo_central.jpg"
+				overlay="co_no_geo_central.png" overlay_X="0" overlay_Y="0"
+				copyright="Wikimedia / color line">
+				<content>Midt-Norge, also known as Trøndelag, is the central region of Norway. It covers an area of 41,383 sq km (15,978 sq mi) and surrounds the Trondheims Fjord. </content>
+				<hint>Hint: This region is below Nord-Norge.</hint>
+			</item>
+
+
+			<item title="Vestlandet (Western Norway)" X="175" Y="264" dropBox_X="27" dropBox_Y="290"
+				dropBoxWidth="110" dropBoxHeight="16" image="co_no_geo_west.jpg"
+				overlay="co_no_geo_west.png" overlay_X="0" overlay_Y="0"
+				copyright="Wikimedia / Mcshadypl">
+				<content>Vestlandet is in southwestern Norway, stretching over an area of approximately 58,512 sq km (22,592 sq mi). </content>
+				<hint>Hint: This region borders the North Sea.</hint>
+			</item>
+
+
+			<item title="Sørlandet (Southern Norway)" X="181" Y="315" dropBox_X="240" dropBox_Y="290"
+				dropBoxWidth="110" dropBoxHeight="16" image="co_no_geo_south.jpg"
+				overlay="co_no_geo_south.png" overlay_X="0" overlay_Y="0"
+				copyright="Wikimedia / Randi Hausken">
+				<content>Sørlandet is a strip of lowland along the southernmost region of Norway. It covers an area of 16,435 sq km (6,346 sq mi).</content>
+				<hint>Hint: This region forms the southern coast of Norway.</hint>
+			</item>
+			
+			<item title="Østlandet (Eastern Norway)" X="214" Y="272" dropBox_X="270" dropBox_Y="233"
+				dropBoxWidth="110" dropBoxHeight="16" image="co_no_geo_east.jpg"
+				overlay="co_no_geo_east.png" overlay_X="0" overlay_Y="0"
+				copyright="Wikimedia / Cato Edvardsen">
+				<content>Østlandet stretches from Norway’s Jotunheim Mountains to the coastal lowlands near Oslo Fjord. It encompasses 94,576 sq km (36,516 sq mi).</content>
+				<hint>Hint: This region is in the southeastern region of the country.</hint>
+			</item>
+			
+			
+			
+			
+		</category>
+
+
+
+
+		<category title="Special Regions">
+			<item title="Galdhopiggen" X="196" Y="260" dropBox_X="20" dropBox_Y="280"
+				dropBoxWidth="120" dropBoxHeight="16" image="co_no_geo_galdhopiggen.jpg"
+				overlay="co_no_geo_galdhopiggen.png" overlay_X="0" overlay_Y="0"
+				copyright="Wikimedia / Håvard Berland">
+				<content>Galdhø Peak in English, this summit rises to 2,469 m (8,100 ft), making it the highest point on the Scandinavian Peninsula.</content>
+				<hint>Hint: This point is located in the center of southern Norway.</hint>
+			</item>
+
+
+			<item title="Svalbard" X="122" Y="30" dropBox_X="30"
+				dropBox_Y="70" dropBoxWidth="120" dropBoxHeight="16" image="co_no_geo_svalbard.jpg"
+				overlay="co_no_geo_svalbard.png" overlay_X="0" overlay_Y="0"
+				copyright="Flickr / Alex Berger">
+				<content>Svalbard consists of nine major islands. It encompasses an area of 62,701 sq km (24,209 sq mi) </content>
+				<hint>Hint: This archipelago lies along the Greenland Sea.</hint>
+			</item>
+
+
+			<item title="Lofoten Islands" X="268" Y="88" dropBox_X="90"
+				dropBox_Y="110" dropBoxWidth="120" dropBoxHeight="16" image="co_no_geo_lofoten_islands.jpg"
+				overlay="co_no_geo_lofoten_islands.png" overlay_X="0" overlay_Y="0"
+				copyright="Wikimedia / Ximonic">
+				<content>The Lofoten Islands is an archipelago that encompasses 1,227 sq km (474 sq mi). It is known for its numerous fishing villages.</content>
+				<hint>Hint: These islands are part of Nord-Norge. </hint>
+			</item>
+
+		</category>
+
+	</menu>
+</data_xml>
